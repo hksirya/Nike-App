@@ -23,6 +23,7 @@ The Nike app is a mobile application developed using the React Native framework.
 https://user-images.githubusercontent.com/104431269/232246791-65345c97-6b23-43ea-a6e8-17f25b013eda.mp4
 
 # Screenshots
+![Untitled design](https://github.com/hksirya/Nike-App/assets/104431269/ed9767d1-d87b-4756-8588-d53537c97435)
 
 <h1>Browse Sneakers</h1>
 
